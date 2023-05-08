@@ -9,7 +9,7 @@ Run binary:
 ```bash
 cd target/release
 
-# arguments: URL, Start ID, End ID
+# arguments: Path to APK file
 ./apk-user-certs  <APK file>
 
 ```
